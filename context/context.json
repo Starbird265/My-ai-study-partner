@@ -1,0 +1,9 @@
+{
+      "openai": {"used": 0, "last_used": 0},
+        "claude": {"used": 0, "last_used": 0},
+          "kimi": {"used": 0, "last_used": 0},
+            "deepseek": {"used": 0, "last_used": 0},
+              "mistral": {"used": 0, "last_used": 0}
+              }
+              
+}
